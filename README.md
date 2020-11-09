@@ -1,6 +1,6 @@
 # Database SQL - Project 1
 
-# SQL result for https://sqlzoo.net/ tutorials
+## SQL result for [SQLzoo](https://sqlzoo.net/) tutorials
 
 ![screenshot](./screenshot.png)
 
