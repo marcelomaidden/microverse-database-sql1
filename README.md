@@ -7,6 +7,8 @@
 
 [Getting Started](#getting-started)
 
+[SELECT basics](./select_basics)
+
 [Author](#author)
 
 [Acknowledgments](#acknowledgements)
