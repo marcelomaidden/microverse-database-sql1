@@ -9,6 +9,10 @@
 
 [SELECT names](./select_names.pdf)
 
+[SELECT from world](./select_from_world.pdf)
+
+[SELECT from nobel](./select_from_nobel.pdf)
+
 [Author](#author)
 
 [Acknowledgments](#acknowledgements)
