@@ -15,7 +15,6 @@
 
 [Show your support](#show-your-support)
 
-[License](#license)
 
 ## Built With
 
