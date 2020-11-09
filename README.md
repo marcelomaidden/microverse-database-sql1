@@ -6,6 +6,7 @@
 [Getting Started](#getting-started)
 
 [SELECT basics](./select_basics)
+
 [SELECT names](./select_names.pdf)
 
 [Author](#author)
