@@ -17,6 +17,8 @@
 
 [SUM and COUNT](./sum_and_count.pdf)
 
+[JOIN](./join.pdf)
+
 [Author](#author)
 
 [Acknowledgments](#acknowledgements)
