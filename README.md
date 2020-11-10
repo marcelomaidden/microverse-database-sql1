@@ -13,6 +13,8 @@
 
 [SELECT from nobel](./select_from_nobel.pdf)
 
+[SELECT within SELECT](./select_within_select.pdf)
+
 [Author](#author)
 
 [Acknowledgments](#acknowledgements)
