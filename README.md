@@ -15,6 +15,8 @@
 
 [SELECT within SELECT](./select_within_select.pdf)
 
+[SUM and COUNT](./sum_and_count.pdf)
+
 [Author](#author)
 
 [Acknowledgments](#acknowledgements)
